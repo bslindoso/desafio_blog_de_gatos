@@ -2,6 +2,8 @@
 
 Bem-vindo ao Blog de Gatos, um projeto desafiador proposto como parte do curso Formação Explorer da RocketSeat! Este blog foi desenvolvido para explorar as habilidades em HTML, CSS, e responsividade, além de aprimorar os conhecimentos em flexbox, grid e design responsivo.
 
+![chrome_eaipgvfHQw](https://github.com/bslindoso/desafio_blog_de_gatos/assets/48108317/a27b40a6-504b-44ee-8aa7-05e36a296080)
+
 ## Sobre o Projeto
 
 O Blog de Gatos é um espaço virtual dedicado a todos os amantes de felinos. Com um design atraente e responsivo, o blog oferece uma experiência de leitura agradável em diferentes dispositivos. Desde artigos intrigantes sobre o comportamento felino até dicas úteis para cuidar do seu gato, este projeto abrange uma variedade de temas cativantes.
